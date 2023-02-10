@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: tuna2134-jp # unique identifier
     name: tuna2134.jp
-    description: 'You write code. They handle the rest.' # default=empty
+    description: 'Main page' # default=empty
     url: 'https://tuna2134.jp/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
